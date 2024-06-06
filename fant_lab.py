@@ -9,7 +9,7 @@ for_reit=''
 post_link='https://fantlab.ru/login'
 data = {
     'login': 'sidbarret',
-    'password': 'snowblind87aMVT6tUQ'
+    'password': '****'
 }
 
 headers = {
